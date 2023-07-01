@@ -2,7 +2,7 @@ import getpass
 import requests
 import base64
 
-token = '_access_token_'
+token = '<_access_token_>'
 username = input('Enter GitHub username: ')
 repo_name = input('Enter repository name: ')
 
