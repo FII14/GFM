@@ -1,4 +1,5 @@
 # GFM
+![screenshot](https://github.com/FII14/GFM/blob/main/gfm.jpg)
 This program allows you to manage files in a GitHub repository using the GitHub API. You can upload a new file or delete an existing file from the repository.
 ## Setup
 1. Install the required libraries:
